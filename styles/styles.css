@@ -1,0 +1,50 @@
+html{
+	background-color: aliceblue;
+}
+head{
+	background-color: #0000FF;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  font-size: 3.25rem;
+  text-align: center;
+  text-shadow: 3px 3px 1px black;
+}
+body{
+	background-color: blueviolet;
+	border: 5px solid black;
+}
+img{
+	display: block;
+	margin: auto;
+	width: 400px;
+}
+.ex1 {
+  margin: auto;
+  background: gold;
+  width: 66%;
+}
+.ex2 {
+  margin: 20px 0px 0 -20px;
+  background: gold;
+  width: 66%;
+}
+p {
+	color: red;
+	width: 500px;
+	margin: 30px;
+	border: 1px solid black;
+	padding: 50px;
+}
+span,strong{
+	color:blue;
+}
+a{
+	color: #FFD700;
+	text-decoration: underline;
+}
+a:hover {
+	font-size: 30px;
+}
